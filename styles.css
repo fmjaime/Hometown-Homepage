@@ -22,7 +22,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 #header-title {
@@ -42,22 +41,34 @@ body {
 #activities {
     background: #F1FAEE;
     color: #1D3557;
-    padding-bottom: 200px; 
-}
-
-.columns {
-    display: flex;
-    margin-top: 30px;
-    border: 1px solid black;
+    padding-bottom: 50px;
+    text-align: center;
 }
 
 #activities-title {
     margin: 0px;
     padding-top: 25px;
-    text-align: center;
+}
+
+#underline {
+    border-bottom: 2px solid #A8DADC;
+}
+
+#content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
 }
 
 .activities-pic {
     width: 150px;
     border-radius: 50%;
+}
+
+.activities-title {
+    margin-bottom: 0px;
+}
+
+.activities-description {
+    margin-top: 10px;
 }
