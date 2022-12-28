@@ -123,13 +123,16 @@ body {
 #footer {
     text-align: center;
     background-color: #131A22;
+    padding: 1px;
 }
 
 .nav_a {
-    padding: 0 6px;
+    color: #dddddd;
+    padding: 0 4px;
+    text-decoration: none;
 
 }
 
-.try {
-    color: white;
+.nav_b {
+    color: #dddddd;
 }
