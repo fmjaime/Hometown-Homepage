@@ -59,6 +59,10 @@ body {
     margin-top: 40px;
 }
 
+.column {
+    width: 150px;
+}
+
 .activities-pic {
     width: 150px;
     border-radius: 50%;
@@ -94,30 +98,6 @@ body {
 
 #guide-text {
     margin: 20px 0 30px 0;
-}
-
-#btn-section {
-    margin: 75px 0 50px;
-    display: flex;
-    justify-content: center;
-}
-
-.btn {
-    display: block;
-}
-
-#btn-1 {
-    margin-right: 50px;
-    padding: 15px 30px;
-    border: 2px solid #457B9D ;
-    border-radius: 0%;
-}
-
-#btn-2 {
-    margin-left: 50px;
-    padding: 15px 30px;
-    border: 2px solid #457B9D ;
-    border-radius: 0%;
 }
 
 #footer {
