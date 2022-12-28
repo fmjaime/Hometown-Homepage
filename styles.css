@@ -130,7 +130,10 @@ body {
     color: #dddddd;
     padding: 0 4px;
     text-decoration: none;
+}
 
+.nav_a:hover {
+    border-bottom: 0.1px solid #dddddd;
 }
 
 .nav_b {
